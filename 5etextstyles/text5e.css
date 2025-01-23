@@ -1,0 +1,38 @@
+p{
+    font-family: Arial;
+    text-align: center;
+    margin-bottom: 0px;
+    
+}
+.new-text{
+color: rgb(202, 163, 80);   
+}
+.macbook-text{ 
+font-weight: bold; 
+margin-bottom: 4px;
+}
+.supercharged-text{
+font-weight: bold;
+font-size: xx-large;
+margin-top: 4px;
+color: rgb(48, 48, 48);
+
+}
+.from-text{
+
+color: rgb(29, 29, 29);
+font-size: small;
+margin-top: 10px;
+}
+.buy{
+background-color: rgb(0, 126, 228);
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 7px;
+padding-bottom: 7px;
+border-radius: 15px;
+border-style: none;
+color: white;
+font-weight: bold;
+cursor: pointer;
+}
