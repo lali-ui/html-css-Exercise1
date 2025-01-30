@@ -1,0 +1,25 @@
+p{
+    font-family: arial;
+    margin-bottom: 0px;
+    text-align:justify
+}
+.card{
+ background-color: rgb(58, 58, 58);
+ width: 300px;
+ padding-left: 20px;
+ padding-bottom: 10px; 
+ padding-top: 3px; 
+ padding-right: 60px;
+}
+.heading{
+    color: white;
+    font-weight: bold;
+    font-size: large;
+    margin-top: 10px;
+    
+}
+.subheading{
+    color: rgb(184, 183, 183);
+    width: 350px;
+    margin-top: 10px;
+}
